@@ -1,28 +1,25 @@
-# This is a large heading
+# Jamie Hutchins
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of San Francisco, in the state of California, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Harry Potter* by J.K. Rowling
+- *Augustus* by John Williams
+- *Wraeththu* by Storm Constantine
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+This morning I woke up hungry for food at these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Mensho Tokyo in San Francisco
+2. Street and Co. in Portland
+3. Emmy's Speghetti Shack in San Francisco
+
+### Contact
+
+The best way to get in touch with me is [on Instagram](https://www.instagram.com/jlee_dinosaurio/?hl=en)
