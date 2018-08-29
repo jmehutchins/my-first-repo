@@ -2,7 +2,7 @@
 
 ### Geography
 
-I live in the city of San Francisco, in the state of California, in the United States of America.
+I live in the beautiful city of San Francisco.
 
 ### Reading
 
@@ -14,7 +14,7 @@ Three of my favorite books are:
 
 ### Food
 
-This morning I woke up hungry for food at these restaurants:
+I'm usually hungry for food from these restaurants:
 
 1. Mensho Tokyo in San Francisco
 2. Street and Co. in Portland
